@@ -885,3 +885,178 @@
 
 [Thu Feb  1 23:01:27 2024
 ] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 19:18:53 2024
+] Error: Error en la columna 0 del CSV D el encabezado deberia ser Año Inicial y es A�o Inicial
+[Fri Feb  2 19:18:53 2024
+] Error: Fallo en la lectura de los datos de entrada
+[Fri Feb  2 19:18:54 2024
+] Error: Los encabezados del algoritmo no son correctos
+
+[Fri Feb  2 19:18:54 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 19:18:54 2024
+] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 19:25:47 2024
+] Error: Error en la columna 0 del CSV Datos del Algoritmo el encabezado deberia ser Año Inicial y es A�o Inicial
+[Fri Feb  2 19:25:47 2024
+] Error: Fallo en la lectura de los datos de entrada
+[Fri Feb  2 19:25:47 2024
+] Error: Los encabezados del algoritmo no son correctos
+
+[Fri Feb  2 19:25:47 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 19:25:47 2024
+] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 19:26:34 2024
+] Error: Error en la columna 0 del CSV Datos del Algoritmo el encabezado deberia ser Año Inicial y es A�o Inicial
+[Fri Feb  2 19:26:34 2024
+] Error: Fallo en la lectura de los datos de entrada
+[Fri Feb  2 19:26:34 2024
+] Error: Los encabezados del algoritmo no son correctos
+
+[Fri Feb  2 19:26:34 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 19:26:34 2024
+] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 19:31:34 2024
+] Error: Error en la columna 0 del CSV Datos del Algoritmo el encabezado deberia ser Año Inicial y es ﻿Año Inicial
+[Fri Feb  2 19:31:34 2024
+] Error: Fallo en la lectura de los datos de entrada
+[Fri Feb  2 19:31:34 2024
+] Error: Los encabezados del algoritmo no son correctos
+
+[Fri Feb  2 19:31:34 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 19:31:34 2024
+] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 19:50:30 2024
+] Error: Las fechas inicial y final del algoritmo no son correctas
+
+[Fri Feb  2 19:50:30 2024
+] Error: Los parametros temporales del algoritmo son incorrectos
+
+[Fri Feb  2 19:50:30 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 19:50:30 2024
+] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 19:55:00 2024
+] Error: No se ha podido abrir el archivo Informacion_Algoritmo.csv
+[Fri Feb  2 19:55:00 2024
+] Error: Fallo en la lectura de los datos de entrada
+[Fri Feb  2 19:55:37 2024
+] Error: Las fechas inicial y final del algoritmo no son correctas
+
+[Fri Feb  2 19:55:37 2024
+] Error: Los parametros temporales del algoritmo son incorrectos
+
+[Fri Feb  2 19:55:37 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 19:55:37 2024
+] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 19:56:24 2024
+] Error: Las fechas inicial y final del algoritmo no son correctas
+
+[Fri Feb  2 19:56:24 2024
+] Error: Los parametros temporales del algoritmo son incorrectos
+
+[Fri Feb  2 19:56:24 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 19:56:24 2024
+] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 20:01:21 2024
+] Error: Las fechas inicial y final del algoritmo no son correctas
+
+[Fri Feb  2 20:01:21 2024
+] Error: Los parametros temporales del algoritmo son incorrectos
+
+[Fri Feb  2 20:01:21 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 20:01:21 2024
+] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 20:01:48 2024
+] Error: Las fechas inicial y final del algoritmo no son correctas
+
+[Fri Feb  2 20:01:48 2024
+] Error: Los parametros temporales del algoritmo son incorrectos
+
+[Fri Feb  2 20:01:48 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 20:01:48 2024
+] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 20:02:40 2024
+] Error: Las fechas inicial y final del algoritmo no son correctas
+
+[Fri Feb  2 20:02:40 2024
+] Error: Los parametros temporales del algoritmo son incorrectos
+
+[Fri Feb  2 20:02:40 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 20:02:40 2024
+] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 20:06:36 2024
+] Error: Las fechas inicial y final del algoritmo no son correctas
+
+[Fri Feb  2 20:06:36 2024
+] Error: Los parametros temporales del algoritmo son incorrectos
+
+[Fri Feb  2 20:06:36 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 20:06:36 2024
+] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 20:12:29 2024
+] Error: Las fechas inicial y final del algoritmo no son correctas
+
+[Fri Feb  2 20:12:29 2024
+] Error: Los parametros temporales del algoritmo son incorrectos
+
+[Fri Feb  2 20:12:29 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 20:12:29 2024
+] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 20:15:25 2024
+] Error: Fallo en la comprobacion de los datos del algoritmo
+[Fri Feb  2 20:15:36 2024
+] Error: Las fechas inicial y final del algoritmo no son correctas
+
+[Fri Feb  2 20:15:36 2024
+] Error: Los parametros temporales del algoritmo son incorrectos
+
+[Fri Feb  2 20:15:36 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 20:15:36 2024
+] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 20:19:19 2024
+] Error: Las fechas inicial y final del algoritmo no son correctas
+
+[Fri Feb  2 20:19:19 2024
+] Error: Los parametros temporales del algoritmo son incorrectos
+
+[Fri Feb  2 20:19:19 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 20:19:19 2024
+] Error: Fallo las entradas son incorrectas
+[Fri Feb  2 20:29:21 2024
+] Error: Las fechas inicial y final del algoritmo no son correctas
+
+[Fri Feb  2 20:29:21 2024
+] Error: Los parametros temporales del algoritmo son incorrectos
+
+[Fri Feb  2 20:29:21 2024
+] Error: Los datos del algoritmo son incorrectos
+
+[Fri Feb  2 20:29:21 2024
+] Error: Fallo las entradas son incorrectas

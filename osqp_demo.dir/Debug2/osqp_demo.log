@@ -1,5 +1,2 @@
-﻿  funciones_plataforma_dependiente.c
-  leer_entradas.c
-  main.c
-  Generating Code...
+﻿  comprobar_lectura_datos.c
   osqp_demo.vcxproj -> F:\osqp1feb\osqp-1.0.0.beta1\build\out\osqp_demo.exe
