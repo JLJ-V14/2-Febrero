@@ -73,6 +73,12 @@
     <ClCompile Include="..\examples\verificar_vehiculos.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="calcular_dimensiones_problema.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="preparar_problema_optimizacion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="F:\osqp1feb\osqp-1.0.0.beta1\CMakeLists.txt" />
@@ -159,6 +165,12 @@
       <Filter>Head Files</Filter>
     </ClInclude>
     <ClInclude Include="tipos_optimizacion.h">
+      <Filter>Head Files</Filter>
+    </ClInclude>
+    <ClInclude Include="calcular_dimensiones_problema.h">
+      <Filter>Head Files</Filter>
+    </ClInclude>
+    <ClInclude Include="preparar_problema_optimizacion.h">
       <Filter>Head Files</Filter>
     </ClInclude>
   </ItemGroup>

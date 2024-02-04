@@ -156,27 +156,32 @@ typedef struct {
 // terminos diferentes de 0.
 // 
 typedef struct {
-    OSQPInt    P_nnz;
-    OSQPFloat* P_x;
-    OSQPInt*   P_i;
-    OSQPInt*   P_p;
-    OSQPFloat* q;
+    OSQPCscMatrix* P;
+    OSQPInt        P_nnz;
+    OSQPFloat*     P_x;
+    OSQPInt*       P_i;
+    OSQPInt*       P_p;
+    OSQPFloat*     q;
 }matriz_objetivos_t;
 
 //
 typedef struct {
-    OSQPInt    A_nnz;
-    OSQPFloat* A_x;
-    OSQPInt*   A_i;
-    OSQPInt*   A_p;
-    OSQPFloat* l;
-    OSQPFloat* u;
+    OSQPCscMatrix* A;
+    OSQPInt        A_nnz;
+    OSQPFloat*     A_x;
+    OSQPInt*       A_i;
+    OSQPInt*       A_p;
+    OSQPFloat*     l;
+    OSQPFloat*     u;
 }matriz_restricciones_t;
 
 typedef struct {
+    OSQPSolver*                solver;
+    OSQPSettings*              ajustes;
+    OSQPInt                    bandera_salida;
     matriz_objetivos_t         matriz_objetivos;
     matriz_restricciones_t     matriz_restricciones;
     OSQPInt                    numero_variables;
     OSQPInt                    numero_restricciones;
-}problema_optimizacion;
+}problema_optimizacion_t;
 
